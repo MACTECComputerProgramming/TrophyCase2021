@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wOZZhXAYLH7OsQE3TfnnQCuMEu4c3DinxebY49xGmpNI6bt97C1ahWeM7jyOQi9XpuSoMenE9L4W8aAx04xV3g==",
+  "dgSpecHash": "YYSFx2vHr/QtaWRGpAcptQwclnYYcBnjfB43WD+wpdxIm7EvY35gaDLbt4vsc4A3EJXG3oMUT/KPBWiMacJ6kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maconrm180\\source\\repos\\TrophyCaseDataBase\\TrophyCaseDataBase\\TrophyCaseDataBase.csproj",
+  "projectFilePath": "C:\\Users\\maconrm180\\Documents\\GitHub\\TrophyCase2021\\TrophyCaseDataBase\\TrophyCaseDataBase\\TrophyCaseDataBase.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\maconrm180\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",
