@@ -56,11 +56,6 @@ C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\TrophyCas
 C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\TrophyCaseDataBase.TagHelpers.input.cache
 C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\TrophyCaseDataBase.TagHelpers.output.cache
 C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\TrophyCaseDataBase.RazorCoreGenerate.cache
-C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Create.cshtml.g.cs
-C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Delete.cshtml.g.cs
-C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Details.cshtml.g.cs
-C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Edit.cshtml.g.cs
-C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Index.cshtml.g.cs
 C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
 C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs

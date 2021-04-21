@@ -14,9 +14,8 @@ namespace TrophyCaseDataBase.Data
         {
             Database.EnsureCreated();
         }
-
-        public DbSet<TrophyCaseDataBase.Models.Employee> Employee { get; set; }
-
         public DbSet<TrophyCaseDataBase.Models.Trophy> Trophy { get; set; }
+
+        
     }
 }
