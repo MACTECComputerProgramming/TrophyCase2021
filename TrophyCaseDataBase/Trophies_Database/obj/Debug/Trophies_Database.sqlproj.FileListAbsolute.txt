@@ -1,0 +1,6 @@
+C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\Trophies_Database\bin\Debug\Trophies_Database.dacpac
+C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\Trophies_Database\bin\Debug\Trophies_Database.dll
+C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\Trophies_Database\bin\Debug\Trophies_Database.pdb
+C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\Trophies_Database\obj\Debug\Trophies_Database.sqlprojAssemblyReference.cache
+C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\Trophies_Database\obj\Debug\Trophies_Database.dll
+C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\Trophies_Database\obj\Debug\Trophies_Database.pdb
