@@ -99,11 +99,6 @@ C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBas
 C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Trophies\Create.cshtml.g.cs
-C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Trophies\Delete.cshtml.g.cs
-C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Trophies\Details.cshtml.g.cs
-C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Trophies\Edit.cshtml.g.cs
-C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Trophies\Index.cshtml.g.cs
 C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\TrophyCaseDataBase.RazorTargetAssemblyInfo.cache
@@ -118,3 +113,8 @@ C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\TrophyCas
 C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Home\Trophies\Details.cshtml.g.cs
 C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Home\Trophies\Edit.cshtml.g.cs
 C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Home\Trophies\Index.cshtml.g.cs
+C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Home\Trophies\Create.cshtml.g.cs
+C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Home\Trophies\Delete.cshtml.g.cs
+C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Home\Trophies\Details.cshtml.g.cs
+C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Home\Trophies\Edit.cshtml.g.cs
+C:\Users\maconrm180\Documents\Logan H\trofycase\TrophyCase2021\TrophyCaseDataBase\TrophyCaseDataBase\obj\Debug\netcoreapp2.1\Razor\Views\Home\Trophies\Index.cshtml.g.cs

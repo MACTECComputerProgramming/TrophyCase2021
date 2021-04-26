@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maconrm180\\Documents\\GitHub\\TrophyCase2021\\TrophyCaseDataBase\\TrophyCaseDataBase\\TrophyCaseDataBase.csproj": {}
+    "C:\\Users\\maconrm180\\Documents\\Logan H\\trofycase\\TrophyCase2021\\TrophyCaseDataBase\\TrophyCaseDataBase\\TrophyCaseDataBase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maconrm180\\Documents\\GitHub\\TrophyCase2021\\TrophyCaseDataBase\\TrophyCaseDataBase\\TrophyCaseDataBase.csproj": {
+    "C:\\Users\\maconrm180\\Documents\\Logan H\\trofycase\\TrophyCase2021\\TrophyCaseDataBase\\TrophyCaseDataBase\\TrophyCaseDataBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maconrm180\\Documents\\GitHub\\TrophyCase2021\\TrophyCaseDataBase\\TrophyCaseDataBase\\TrophyCaseDataBase.csproj",
+        "projectUniqueName": "C:\\Users\\maconrm180\\Documents\\Logan H\\trofycase\\TrophyCase2021\\TrophyCaseDataBase\\TrophyCaseDataBase\\TrophyCaseDataBase.csproj",
         "projectName": "TrophyCaseDataBase",
-        "projectPath": "C:\\Users\\maconrm180\\Documents\\GitHub\\TrophyCase2021\\TrophyCaseDataBase\\TrophyCaseDataBase\\TrophyCaseDataBase.csproj",
+        "projectPath": "C:\\Users\\maconrm180\\Documents\\Logan H\\trofycase\\TrophyCase2021\\TrophyCaseDataBase\\TrophyCaseDataBase\\TrophyCaseDataBase.csproj",
         "packagesPath": "C:\\Users\\maconrm180\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maconrm180\\Documents\\GitHub\\TrophyCase2021\\TrophyCaseDataBase\\TrophyCaseDataBase\\obj\\",
+        "outputPath": "C:\\Users\\maconrm180\\Documents\\Logan H\\trofycase\\TrophyCase2021\\TrophyCaseDataBase\\TrophyCaseDataBase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -109,7 +109,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
