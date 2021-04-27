@@ -38,6 +38,9 @@ namespace TrophyCaseDataBase
 
             services.AddDbContext<TrophyCaseDataBaseContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("TrophyCaseDataBaseContext")));
+
+            services.AddDbContext<TrophyCaseDataBaseContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("TrophyCaseDataBaseContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

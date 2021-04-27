@@ -4,3 +4,7 @@ C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\Trophies_
 C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\Trophies_Database\obj\Debug\Trophies_Database.sqlprojAssemblyReference.cache
 C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\Trophies_Database\obj\Debug\Trophies_Database.dll
 C:\Users\maconrm180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\Trophies_Database\obj\Debug\Trophies_Database.pdb
+C:\Users\MaconRM180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\Trophies_Database\obj\Debug\Model.xml
+C:\Users\MaconRM180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\Trophies_Database\obj\Debug\refactor.xml
+C:\Users\MaconRM180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\Trophies_Database\obj\Debug\postdeploy.sql
+C:\Users\MaconRM180\Documents\GitHub\TrophyCase2021\TrophyCaseDataBase\Trophies_Database\obj\Debug\predeploy.sql
