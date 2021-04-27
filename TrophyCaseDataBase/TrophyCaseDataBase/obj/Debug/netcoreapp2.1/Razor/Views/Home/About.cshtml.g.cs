@@ -107,7 +107,7 @@ Write(ViewData["Message"]);
 ");
             EndContext();
             BeginContext(645, 120, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7c4730782bae4ff4b652f9094f33da08", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6ba0b9b278ae4aef884ea821f62048b3", async() => {
                 BeginContext(651, 107, true);
                 WriteLiteral("\r\n\r\n    <button class=\"button button1\">Green</button>\r\n    <button class=\"button button2\">Blue</button>\r\n\r\n");
                 EndContext();
@@ -167,7 +167,7 @@ Write(ViewData["Message"]);
 ");
             EndContext();
             BeginContext(1687, 120, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d51a1c605b794d758bc6ede3667c211c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1e2f0c3089f44cab85f66c7962e03577", async() => {
                 BeginContext(1693, 107, true);
                 WriteLiteral("\r\n\r\n    <button class=\"button button1\">Green</button>\r\n    <button class=\"button button2\">Blue</button>\r\n\r\n");
                 EndContext();
