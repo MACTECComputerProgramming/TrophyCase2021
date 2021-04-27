@@ -54,7 +54,7 @@ namespace TrophyCaseDataBase.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Year,Details,ImageId")] Trophy trophy)
+        public async Task<IActionResult> Create([Bind("Id,YearEarned,Details,ImagePath")] Trophy trophy)
         {
             if (ModelState.IsValid)
             {
@@ -86,7 +86,7 @@ namespace TrophyCaseDataBase.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Year,Details,ImageId")] Trophy trophy)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,YearEarned,Details,ImagePath")] Trophy trophy)
         {
             if (id != trophy.Id)
             {
